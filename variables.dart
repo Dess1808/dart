@@ -1,6 +1,5 @@
 //Even in type-safe Dart code, most variable don't explicit types, thanks to type inference
-//"mesmo no codigo dart de tipo seguro???"
-//dart reconhece os tipos da variaveis automaticamente (inferencia)
+//dart reconhece os tipos da variaveis automaticamente chamada de inferencia
 
 var name = 'Vayager I';
 var year = 1997;

@@ -10,7 +10,8 @@ void main(){
     }
 
     
-    for (final object in flybyObjects){
+    //atribuia cada children de flybyObjects em object (tempo de execução) e depois print
+    for (final object in flybyObjects){ //sempre utilizado essa estrutura quando for um array
         print(object);
     }
 
